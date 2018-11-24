@@ -135,4 +135,4 @@ const outQuart = (x) => {
 ![Ease functions](../images/animation/ease.png)
 
 
-[下一节构建一个你的动画库]()
+[下一节构建一个你的动画库](./animation-lib.md)
